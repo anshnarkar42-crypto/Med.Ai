@@ -1,0 +1,61 @@
+{
+  "common": {
+    "appName": "Med.AI",
+    "tagline": "Intelligent Healthcare Assistant",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "roles": {
+    "patient": "Patient",
+    "doctor": "Doctor",
+    "staff": "Hospital Staff"
+  },
+  "landing": {
+    "hero": "Your AI-Powered Healthcare Companion",
+    "subtitle": "24/7 medical assistance with intelligent symptom checking and emergency support",
+    "continueAsPatient": "Continue as Patient",
+    "continueAsDoctor": "Doctor Portal",
+    "continueAsStaff": "Staff Dashboard",
+    "patientDesc": "Get instant AI-powered health guidance and connect with doctors",
+    "doctorDesc": "Manage patients and provide expert care efficiently",
+    "staffDesc": "Coordinate hospital resources and emergency responses"
+  },
+  "emergency": {
+    "listening": "Emergency listening: ON",
+    "disable": "Disable",
+    "wakeDetected": "Emergency Wake Word Detected",
+    "preTriage": "Emergency Pre-Triage",
+    "confirmEmergency": "Confirm Emergency",
+    "imOk": "I'm OK",
+    "call108": "Call 108 Now",
+    "shareLocation": "Share Location",
+    "silentEscalation": "Silent escalation in progress...",
+    "consentTitle": "Emergency Listening Consent",
+    "consentMessage": "Allow emergency listening? This simulates a voice-wake flow in the demo. You can toggle it off anytime.",
+    "allow": "Allow",
+    "deny": "Deny"
+  },
+  "symptomChecker": {
+    "title": "AI Symptom Checker",
+    "describe": "Describe your symptoms",
+    "startDiagnosis": "Start Diagnosis",
+    "analyze": "Analyze with Med.AI",
+    "voiceInput": "Voice Input",
+    "uploadRecords": "Upload Medical Records",
+    "bodyMap": "Body Map",
+    "analyzing": "Analyzing symptoms...",
+    "result": "Analysis Result"
+  }
+}

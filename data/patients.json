@@ -1,0 +1,30 @@
+[
+  {
+    "id": "pat-001",
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "bloodGroup": "O+",
+    "email": "john.doe@example.com",
+    "phone": "+91-9876543210",
+    "conditions": ["Hypertension"],
+    "medications": ["Amlodipine 5mg"],
+    "allergies": ["Penicillin"],
+    "lastVisit": "2025-01-15",
+    "avatar": "/male-patient-avatar.png"
+  },
+  {
+    "id": "pat-002",
+    "name": "Jane Smith",
+    "age": 28,
+    "gender": "Female",
+    "bloodGroup": "A+",
+    "email": "jane.smith@example.com",
+    "phone": "+91-9876543211",
+    "conditions": ["Diabetes Type 2"],
+    "medications": ["Metformin 500mg"],
+    "allergies": ["Sulfa drugs"],
+    "lastVisit": "2025-01-20",
+    "avatar": "/female-doctor-avatar.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "doc-001",
+    "name": "Dr. Priya Sharma",
+    "specialization": "Pulmonologist",
+    "rating": 4.8,
+    "experience": 12,
+    "fee": 800,
+    "distance": "2.3 km",
+    "avatar": "/female-doctor-avatar.png",
+    "available": true,
+    "hospital": "Kokilaben Hospital",
+    "education": "MBBS, MD Pulmonology",
+    "languages": ["English", "Hindi", "Marathi"]
+  },
+  {
+    "id": "doc-002",
+    "name": "Dr. Rajesh Kumar",
+    "specialization": "General Physician",
+    "rating": 4.6,
+    "experience": 8,
+    "fee": 500,
+    "distance": "1.8 km",
+    "avatar": "/male-patient-avatar.png",
+    "available": true,
+    "hospital": "Lilavati Hospital",
+    "education": "MBBS, MD General Medicine",
+    "languages": ["English", "Hindi"]
+  },
+  {
+    "id": "doc-003",
+    "name": "Dr. Anjali Mehta",
+    "specialization": "Cardiologist",
+    "rating": 4.9,
+    "experience": 15,
+    "fee": 1200,
+    "distance": "3.5 km",
+    "avatar": "/female-doctor-avatar.png",
+    "available": true,
+    "hospital": "Hinduja Hospital",
+    "education": "MBBS, DM Cardiology",
+    "languages": ["English", "Hindi", "Gujarati"]
+  }
+]

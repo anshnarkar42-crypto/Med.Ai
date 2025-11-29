@@ -1,0 +1,15 @@
+[
+  {
+    "id": "emg-001",
+    "patientId": "pat-001",
+    "timestamp": "2025-01-29T12:30:00Z",
+    "type": "voice_wake",
+    "confidence": "high",
+    "transcript": "med ai madad karo main khoon khar raha hu",
+    "keywords": ["madad", "khoon"],
+    "severity": "critical",
+    "status": "dispatched",
+    "hospitalId": "hosp-001",
+    "ambulanceETA": "12 minutes"
+  }
+]

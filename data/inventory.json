@@ -1,0 +1,38 @@
+[
+  {
+    "id": "inv-001",
+    "item": "Surgical Masks",
+    "category": "PPE",
+    "quantity": 450,
+    "minStock": 200,
+    "unit": "pieces",
+    "status": "adequate"
+  },
+  {
+    "id": "inv-002",
+    "item": "Oxygen Cylinders",
+    "category": "Medical Gas",
+    "quantity": 45,
+    "minStock": 50,
+    "unit": "cylinders",
+    "status": "low"
+  },
+  {
+    "id": "inv-003",
+    "item": "Paracetamol 500mg",
+    "category": "Medication",
+    "quantity": 2800,
+    "minStock": 1000,
+    "unit": "tablets",
+    "status": "adequate"
+  },
+  {
+    "id": "inv-004",
+    "item": "Surgical Gloves",
+    "category": "PPE",
+    "quantity": 120,
+    "minStock": 500,
+    "unit": "boxes",
+    "status": "critical"
+  }
+]
